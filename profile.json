@@ -1,0 +1,15 @@
+{
+  "name": "Jakub Klejna",
+  "bio": "Junior IT Developer se zájmem o hardware, programování, automatizaci, databáze, data mining a správa serverů.",
+  "skills": ["JavaScript", "HTML5", "CSS3", "Git", "GitHub Pages", "JSON", "Python", "C++", "C#"],
+  "projects": [
+    {
+      "title": "Dynamic Profile",
+      "desc": "Web s dynamickým načítáním dat přes Fetch API."
+    },
+    {
+      "title": "Git Workflow",
+      "desc": "Projekt zaměřený na správu verzí a Conventional Commits."
+    }
+  ]
+}
